@@ -15,8 +15,9 @@ sites:
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: ZY
+    url: https://ziyuan.baidu.com
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
