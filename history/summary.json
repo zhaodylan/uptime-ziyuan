@@ -99,17 +99,17 @@
     "slug": "zy",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "92.50%",
-    "uptimeWeek": "79.77%",
-    "uptimeMonth": "93.62%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "79.83%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.09%",
-    "time": 5879,
-    "timeDay": 6717,
-    "timeWeek": 5846,
-    "timeMonth": 6055,
-    "timeYear": 5879,
+    "time": 5873,
+    "timeDay": 6350,
+    "timeWeek": 5796,
+    "timeMonth": 6035,
+    "timeYear": 5873,
     "dailyMinutesDown": {
-      "2021-09-20": 19,
+      "2021-09-20": 43,
       "2021-09-19": 198,
       "2021-09-18": 610,
       "2021-09-17": 695,
@@ -138,7 +138,7 @@
       "2021-07-20": 26,
       "2021-07-19": 25,
       "2021-07-16": 50,
-      "2021-07-15": 101
+      "2021-07-15": 82
     }
   }
 ]
