@@ -97,11 +97,11 @@
     "url": "https://ziyuan.baidu.com",
     "icon": "https://favicons.githubusercontent.com/ziyuan.baidu.com",
     "slug": "zy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "62.07%",
+    "uptimeDay": "62.06%",
     "uptimeWeek": "94.36%",
-    "uptimeMonth": "91.66%",
+    "uptimeMonth": "91.72%",
     "uptimeYear": "99.03%",
     "time": 5941,
     "timeDay": 5364,
@@ -124,7 +124,7 @@
       "2021-09-19": 198,
       "2021-09-18": 610,
       "2021-09-17": 695,
-      "2021-09-16": 306
+      "2021-09-16": 282
     }
   }
 ]
