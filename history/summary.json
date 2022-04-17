@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 131,
-    "timeWeek": 108,
+    "timeDay": 126,
+    "timeWeek": 119,
     "timeMonth": 85,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 104,
-    "timeWeek": 188,
+    "timeDay": 102,
+    "timeWeek": 169,
     "timeMonth": 208,
-    "timeYear": 244,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -46,10 +46,10 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 383,
-    "timeDay": 244,
-    "timeWeek": 327,
-    "timeMonth": 336,
+    "time": 382,
+    "timeDay": 232,
+    "timeWeek": 315,
+    "timeMonth": 334,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2022-04-11": 29,
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 32,
-    "timeWeek": 23,
+    "timeDay": 28,
+    "timeWeek": 26,
     "timeMonth": 17,
     "timeYear": 33,
     "dailyMinutesDown": {}
@@ -99,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/ziyuan.baidu.com",
     "slug": "zy",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.49%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.37%",
     "time": 5613,
-    "timeDay": 5290,
-    "timeWeek": 4471,
-    "timeMonth": 4333,
-    "timeYear": 5616,
+    "timeDay": 5079,
+    "timeWeek": 4459,
+    "timeMonth": 4339,
+    "timeYear": 5615,
     "dailyMinutesDown": {
-      "2022-04-16": 28,
+      "2022-04-16": 18,
       "2022-04-13": 20,
       "2022-04-11": 23,
       "2022-03-10": 15,
@@ -150,7 +150,7 @@
       "2021-09-21": 175,
       "2021-09-20": 79,
       "2021-09-19": 198,
-      "2021-09-18": 85
+      "2021-09-18": 245
     }
   }
 ]
