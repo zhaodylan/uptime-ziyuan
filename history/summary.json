@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 95,
-    "timeWeek": 93,
-    "timeMonth": 100,
-    "timeYear": 97,
+    "timeDay": 187,
+    "timeWeek": 109,
+    "timeMonth": 104,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 197,
-    "timeWeek": 339,
-    "timeMonth": 235,
-    "timeYear": 249,
+    "timeDay": 134,
+    "timeWeek": 345,
+    "timeMonth": 232,
+    "timeYear": 248,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.89%",
     "time": 357,
-    "timeDay": 471,
-    "timeWeek": 330,
-    "timeMonth": 275,
-    "timeYear": 349,
+    "timeDay": 344,
+    "timeWeek": 329,
+    "timeMonth": 279,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2022-07-08": 509,
       "2022-04-11": 29,
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 23,
-    "timeWeek": 22,
-    "timeMonth": 22,
+    "timeDay": 72,
+    "timeWeek": 30,
+    "timeMonth": 24,
     "timeYear": 33,
     "dailyMinutesDown": {}
   },
@@ -101,17 +101,17 @@
     "slug": "zy",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "99.42%",
-    "time": 5535,
-    "timeDay": 4687,
-    "timeWeek": 4726,
-    "timeMonth": 5523,
-    "timeYear": 5502,
+    "time": 5529,
+    "timeDay": 4289,
+    "timeWeek": 4744,
+    "timeMonth": 5521,
+    "timeYear": 5501,
     "dailyMinutesDown": {
-      "2022-07-23": 51,
+      "2022-07-23": 42,
       "2022-07-22": 91,
       "2022-07-21": 60,
       "2022-07-18": 28,
@@ -173,7 +173,7 @@
       "2021-09-30": 22,
       "2021-09-29": 16,
       "2021-09-27": 60,
-      "2021-09-26": 145
+      "2021-09-26": 167
     }
   }
 ]
