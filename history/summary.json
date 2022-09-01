@@ -98,12 +98,12 @@
     "url": "https://ziyuan.baidu.com",
     "icon": "https://favicons.githubusercontent.com/ziyuan.baidu.com",
     "slug": "zy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "90.37%",
-    "uptimeWeek": "94.04%",
+    "uptimeDay": "90.35%",
+    "uptimeWeek": "94.03%",
     "uptimeMonth": "73.47%",
-    "uptimeYear": "97.60%",
+    "uptimeYear": "97.61%",
     "time": 5723,
     "timeDay": 15705,
     "timeWeek": 8615,
@@ -150,7 +150,7 @@
       "2022-07-14": 72,
       "2022-07-13": 144,
       "2022-07-12": 17,
-      "2022-07-11": 65
+      "2022-07-11": 43
     }
   }
 ]
