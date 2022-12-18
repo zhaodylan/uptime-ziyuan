@@ -98,11 +98,11 @@
     "url": "https://ziyuan.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ziyuan.baidu.com.ico",
     "slug": "zy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.60%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.31%",
     "time": 5623,
     "timeDay": 4122,
@@ -110,6 +110,7 @@
     "timeMonth": 4926,
     "timeYear": 5670,
     "dailyMinutesDown": {
+      "2022-12-18": 0,
       "2022-12-17": 29,
       "2022-12-16": 8,
       "2022-12-14": 47,
@@ -146,8 +147,7 @@
       "2022-10-20": 23,
       "2022-10-18": 121,
       "2022-10-17": 151,
-      "2022-10-16": 80,
-      "2022-10-15": 18
+      "2022-10-16": 80
     }
   }
 ]
