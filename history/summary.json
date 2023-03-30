@@ -13,7 +13,7 @@
     "time": 99,
     "timeDay": 74,
     "timeWeek": 92,
-    "timeMonth": 108,
+    "timeMonth": 107,
     "timeYear": 102,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 220,
     "timeDay": 335,
     "timeWeek": 217,
-    "timeMonth": 207,
+    "timeMonth": 217,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 307,
     "timeDay": 438,
     "timeWeek": 320,
-    "timeMonth": 322,
+    "timeMonth": 325,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2023-03-28": 86,
@@ -103,17 +103,17 @@
     "slug": "zy",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "93.96%",
-    "uptimeMonth": "94.95%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "94.75%",
     "uptimeYear": "99.45%",
     "time": 5646,
     "timeDay": 5817,
     "timeWeek": 5968,
-    "timeMonth": 6156,
+    "timeMonth": 6143,
     "timeYear": 5736,
     "dailyMinutesDown": {
-      "2023-03-29": 84,
+      "2023-03-29": 74,
       "2023-03-28": 40,
       "2023-03-27": 99,
       "2023-03-26": 19,
@@ -153,7 +153,8 @@
       "2023-02-09": 37,
       "2023-02-08": 71,
       "2023-01-30": 29,
-      "2023-01-29": 18
+      "2023-01-29": 18,
+      "2023-01-28": 17
     }
   }
 ]
