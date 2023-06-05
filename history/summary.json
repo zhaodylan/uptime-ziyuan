@@ -42,17 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.87%",
     "time": 300,
     "timeDay": 269,
     "timeWeek": 343,
     "timeMonth": 302,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-06-05": 15,
       "2023-04-03": 20,
       "2023-03-31": 16,
       "2023-03-28": 86,
@@ -103,12 +102,12 @@
     "url": "https://ziyuan.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ziyuan.baidu.com.ico",
     "slug": "zy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "97.61%",
+    "uptimeDay": "97.59%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "95.63%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 5573,
     "timeDay": 5919,
     "timeWeek": 5109,
@@ -155,8 +154,7 @@
       "2023-04-15": 35,
       "2023-04-14": 81,
       "2023-04-13": 168,
-      "2023-04-12": 191,
-      "2023-04-11": 16
+      "2023-04-12": 191
     }
   }
 ]
