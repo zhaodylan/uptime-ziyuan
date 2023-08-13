@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 68,
-    "timeWeek": 145,
-    "timeMonth": 121,
+    "timeDay": 83,
+    "timeWeek": 148,
+    "timeMonth": 120,
     "timeYear": 107,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 130,
-    "timeWeek": 207,
+    "timeDay": 149,
+    "timeWeek": 200,
     "timeMonth": 182,
-    "timeYear": 210,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 296,
-    "timeDay": 416,
-    "timeWeek": 322,
+    "timeDay": 246,
+    "timeWeek": 307,
     "timeMonth": 305,
     "timeYear": 301,
     "dailyMinutesDown": {
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 24,
-    "timeDay": 10,
-    "timeWeek": 28,
+    "timeDay": 19,
+    "timeWeek": 29,
     "timeMonth": 26,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -104,18 +104,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ziyuan.baidu.com.ico",
     "slug": "zy",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.50%",
-    "time": 5612,
-    "timeDay": 5268,
-    "timeWeek": 4910,
-    "timeMonth": 5219,
+    "uptime": "99.80%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.49%",
+    "time": 5611,
+    "timeDay": 5040,
+    "timeWeek": 4926,
+    "timeMonth": 5232,
     "timeYear": 5615,
     "dailyMinutesDown": {
-      "2023-08-12": 40,
+      "2023-08-12": 28,
       "2023-08-03": 15,
       "2023-07-27": 19,
       "2023-07-19": 19,
@@ -154,7 +154,7 @@
       "2023-05-29": 18,
       "2023-05-25": 38,
       "2023-05-24": 66,
-      "2023-05-23": 21
+      "2023-05-23": 69
     }
   }
 ]
