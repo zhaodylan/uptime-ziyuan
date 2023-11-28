@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 73,
-    "timeWeek": 79,
-    "timeMonth": 93,
+    "timeDay": 76,
+    "timeWeek": 76,
+    "timeMonth": 92,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2023-08-28": 17
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 179,
-    "timeWeek": 166,
-    "timeMonth": 214,
+    "time": 207,
+    "timeDay": 175,
+    "timeWeek": 182,
+    "timeMonth": 213,
     "timeYear": 206,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 303,
-    "timeDay": 417,
-    "timeWeek": 326,
-    "timeMonth": 346,
+    "timeDay": 324,
+    "timeWeek": 353,
+    "timeMonth": 348,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2023-11-21": 15,
@@ -94,8 +94,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 14,
-    "timeWeek": 15,
+    "timeDay": 18,
+    "timeWeek": 14,
     "timeMonth": 20,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -106,18 +106,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ziyuan.baidu.com.ico",
     "slug": "zy",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.55%",
     "time": 5446,
-    "timeDay": 5355,
-    "timeWeek": 5681,
-    "timeMonth": 5722,
+    "timeDay": 4874,
+    "timeWeek": 5709,
+    "timeMonth": 5727,
     "timeYear": 5462,
     "dailyMinutesDown": {
-      "2023-11-27": 9,
       "2023-11-23": 35,
       "2023-11-21": 20,
       "2023-11-03": 16,
@@ -171,7 +170,7 @@
       "2023-06-21": 16,
       "2023-06-20": 51,
       "2023-06-19": 50,
-      "2023-06-18": 36
+      "2023-06-18": 111
     }
   }
 ]
