@@ -91,27 +91,25 @@
     "slug": "test-for-head",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
     "timeDay": 20,
     "timeWeek": 17,
     "timeMonth": 17,
     "timeYear": 26,
-    "dailyMinutesDown": {
-      "2023-12-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ZY",
     "url": "https://ziyuan.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ziyuan.baidu.com.ico",
     "slug": "zy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.56%",
@@ -121,6 +119,7 @@
     "timeMonth": 5939,
     "timeYear": 5474,
     "dailyMinutesDown": {
+      "2023-12-10": 0,
       "2023-12-05": 32,
       "2023-12-04": 32,
       "2023-11-28": 26,
@@ -175,7 +174,7 @@
       "2023-06-23": 23,
       "2023-06-22": 34,
       "2023-06-21": 16,
-      "2023-06-20": 51
+      "2023-06-20": 32
     }
   }
 ]
