@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 82,
-    "timeWeek": 85,
-    "timeMonth": 81,
+    "timeDay": 69,
+    "timeWeek": 83,
+    "timeMonth": 80,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2023-08-28": 17
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 122,
-    "timeWeek": 341,
-    "timeMonth": 240,
+    "time": 207,
+    "timeDay": 154,
+    "timeWeek": 318,
+    "timeMonth": 233,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.87%",
     "time": 338,
-    "timeDay": 101,
-    "timeWeek": 289,
-    "timeMonth": 292,
+    "timeDay": 271,
+    "timeWeek": 304,
+    "timeMonth": 287,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2024-01-10": 143,
@@ -100,8 +100,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 24,
-    "timeWeek": 20,
+    "timeDay": 16,
+    "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 25,
     "dailyMinutesDown": {}
@@ -113,17 +113,16 @@
     "slug": "zy",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.55%",
     "time": 5504,
-    "timeDay": 5202,
-    "timeWeek": 5242,
-    "timeMonth": 5183,
+    "timeDay": 5745,
+    "timeWeek": 5337,
+    "timeMonth": 5204,
     "timeYear": 5515,
     "dailyMinutesDown": {
-      "2024-01-27": 13,
       "2024-01-26": 54,
       "2024-01-25": 7,
       "2024-01-22": 19,
@@ -184,7 +183,7 @@
       "2023-06-27": 40,
       "2023-06-26": 40,
       "2023-06-25": 205,
-      "2023-06-24": 2
+      "2023-06-24": 73
     }
   }
 ]
