@@ -52,7 +52,7 @@
     "timeDay": 297,
     "timeWeek": 312,
     "timeMonth": 257,
-    "timeYear": 350,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2024-01-10": 143,
       "2023-12-18": 17,
@@ -113,17 +113,17 @@
     "slug": "zy",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "96.35%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.58%",
     "time": 5506,
     "timeDay": 5573,
     "timeWeek": 5046,
     "timeMonth": 5185,
-    "timeYear": 5487,
+    "timeYear": 5488,
     "dailyMinutesDown": {
-      "2024-02-08": 52,
+      "2024-02-08": 38,
       "2024-02-06": 21,
       "2024-02-05": 20,
       "2024-02-04": 16,
@@ -185,7 +185,8 @@
       "2023-06-29": 29,
       "2023-06-28": 66,
       "2023-06-27": 40,
-      "2023-06-26": 40
+      "2023-06-26": 40,
+      "2023-06-25": 19
     }
   }
 ]
