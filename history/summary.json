@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 123,
-    "timeWeek": 88,
-    "timeMonth": 93,
+    "timeDay": 80,
+    "timeWeek": 85,
+    "timeMonth": 92,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2023-08-28": 17
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 175,
-    "timeWeek": 205,
-    "timeMonth": 178,
+    "timeDay": 203,
+    "timeWeek": 184,
+    "timeMonth": 183,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 332,
-    "timeDay": 290,
-    "timeWeek": 295,
-    "timeMonth": 247,
+    "timeDay": 311,
+    "timeWeek": 319,
+    "timeMonth": 253,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2024-03-26": 17,
@@ -63,8 +63,7 @@
       "2023-12-01": 19,
       "2023-11-21": 15,
       "2023-07-06": 22,
-      "2023-06-16": 18,
-      "2023-04-03": 20
+      "2023-06-16": 18
     }
   },
   {
@@ -97,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 24,
-    "timeDay": 51,
+    "timeDay": 18,
     "timeWeek": 21,
-    "timeMonth": 23,
+    "timeMonth": 22,
     "timeYear": 24,
     "dailyMinutesDown": {}
   },
@@ -110,17 +109,16 @@
     "slug": "zy",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.58%",
-    "time": 5362,
-    "timeDay": 5308,
-    "timeWeek": 5148,
-    "timeMonth": 5187,
-    "timeYear": 5364,
+    "time": 5361,
+    "timeDay": 5024,
+    "timeWeek": 5157,
+    "timeMonth": 5195,
+    "timeYear": 5363,
     "dailyMinutesDown": {
-      "2024-04-01": 9,
       "2024-03-31": 17,
       "2024-03-25": 92,
       "2024-03-24": 17,
@@ -185,7 +183,8 @@
       "2023-08-16": 121,
       "2023-08-12": 28,
       "2023-08-03": 15,
-      "2023-07-27": 19
+      "2023-07-27": 19,
+      "2023-07-19": 19
     }
   }
 ]
