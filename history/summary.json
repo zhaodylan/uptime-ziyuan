@@ -11,18 +11,18 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.93%",
     "time": 144,
-    "timeDay": 110,
-    "timeWeek": 79,
+    "timeDay": 81,
+    "timeWeek": 80,
     "timeMonth": 98,
-    "timeYear": 151,
+    "timeYear": 150,
     "dailyMinutesDown": {
-      "2026-05-06": 134,
-      "2026-03-06": 19,
-      "2025-12-11": 18,
-      "2025-11-11": 29,
-      "2025-07-08": 102,
+      "2025-06-24": 19,
       "2025-07-07": 22,
-      "2025-06-24": 19
+      "2025-07-08": 102,
+      "2025-11-11": 29,
+      "2025-12-11": 18,
+      "2026-03-06": 19,
+      "2026-05-06": 134
     }
   },
   {
@@ -37,13 +37,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 170,
-    "timeDay": 345,
-    "timeWeek": 145,
-    "timeMonth": 184,
-    "timeYear": 174,
+    "timeDay": 84,
+    "timeWeek": 151,
+    "timeMonth": 178,
+    "timeYear": 172,
     "dailyMinutesDown": {
-      "2026-03-01": 29,
-      "2026-02-25": 71
+      "2026-02-25": 71,
+      "2026-03-01": 29
     }
   },
   {
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 214,
+    "time": 321,
+    "timeDay": 94,
     "timeWeek": 330,
     "timeMonth": 297,
-    "timeYear": 308,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2025-05-27": 26
     }
@@ -96,8 +96,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 57,
-    "timeWeek": 39,
+    "timeDay": 46,
+    "timeWeek": 40,
     "timeMonth": 33,
     "timeYear": 43,
     "dailyMinutesDown": {}
@@ -113,16 +113,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 4710,
-    "timeDay": 4665,
-    "timeWeek": 5229,
-    "timeMonth": 4904,
-    "timeYear": 4672,
+    "time": 4709,
+    "timeDay": 4641,
+    "timeWeek": 5400,
+    "timeMonth": 4933,
+    "timeYear": 4673,
     "dailyMinutesDown": {
-      "2026-03-20": 37,
-      "2026-01-08": 20,
+      "2025-08-19": 69,
       "2025-12-25": 16,
-      "2025-08-19": 69
+      "2026-01-08": 20,
+      "2026-03-20": 37
     }
   }
 ]
