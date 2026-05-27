@@ -11,9 +11,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.93%",
     "time": 144,
-    "timeDay": 116,
-    "timeWeek": 89,
-    "timeMonth": 100,
+    "timeDay": 61,
+    "timeWeek": 82,
+    "timeMonth": 99,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2025-06-24": 19,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 170,
-    "timeDay": 290,
-    "timeWeek": 187,
-    "timeMonth": 180,
-    "timeYear": 173,
+    "timeDay": 45,
+    "timeWeek": 165,
+    "timeMonth": 173,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2026-02-25": 71,
       "2026-03-01": 29
@@ -58,13 +58,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 281,
-    "timeWeek": 311,
-    "timeMonth": 292,
-    "timeYear": 307,
-    "dailyMinutesDown": {
-      "2025-05-27": 26
-    }
+    "timeDay": 410,
+    "timeWeek": 319,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
@@ -96,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 54,
-    "timeWeek": 44,
-    "timeMonth": 34,
+    "timeDay": 20,
+    "timeWeek": 36,
+    "timeMonth": 35,
     "timeYear": 43,
     "dailyMinutesDown": {}
   },
@@ -113,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 4710,
-    "timeDay": 5979,
-    "timeWeek": 5447,
-    "timeMonth": 4976,
-    "timeYear": 4675,
+    "time": 4712,
+    "timeDay": 6072,
+    "timeWeek": 5456,
+    "timeMonth": 5055,
+    "timeYear": 4677,
     "dailyMinutesDown": {
       "2025-08-19": 69,
       "2025-12-25": 16,
